@@ -1,3 +1,5 @@
+// Modified by Meraj Gulmaliyeva
+
 #include <stdio.h>
 #include <stdlib.h>
 /* 
